@@ -1,0 +1,25 @@
+{
+  "name": "game-of-velhas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demysdcl/game-of-velhas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Demysdcl/game-of-velhas/issues"
+  },
+  "homepage": "https://github.com/Demysdcl/game-of-velhas#readme",
+  "devDependencies": {
+    "snowpack": "^3.0.13",
+    "snowpack-plugin-terser": "^0.1.0",
+    "terser": "^5.6.0"
+  }
+}
