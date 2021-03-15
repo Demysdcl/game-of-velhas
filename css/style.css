@@ -78,9 +78,9 @@ button {
 }
 
 .stark {
-  background-image: url(./images/stark.jpeg);
+  background-image: url(../images/stark.jpeg);
 }
 
 .targaryen {
-  background-image: url(./images/targaryen.jpeg);
+  background-image: url(../images/targaryen.jpeg);
 }
